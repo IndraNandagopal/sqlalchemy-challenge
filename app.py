@@ -127,11 +127,7 @@ def tobs():
 def stats(start=None, end=None):
     # Create our session (link) from Python to the DB
     session = Session(engine)
-    #start_date = dt.datetime.strptime(start, "%d %B, %Y")
-    #end_date = dt.datetime.strptime(end, "%d %B, %Y")
-    print('Hello')
-    print(start)
-    print(end)
+    
     """Query for min, max, and avg temperature for all dates greater than or equal to the start date
     and less than or equal to end date"""
     if not end:
