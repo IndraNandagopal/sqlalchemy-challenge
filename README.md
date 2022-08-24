@@ -175,7 +175,7 @@ Completed the following steps:
 
     * Used the peak-to-peak (TMAX-TMIN) value as the _y_ error bar (YERR).
 
-    ![temperature](Images/temperature.png)
+    ![temperature](Images/bar_plot_Temperature.png)
 
 ### Daily Rainfall Average
 
