@@ -49,6 +49,7 @@ The following tasks were performed to do the analysis of precipitation in the ar
   ![precipitation](Images/Precipitation_Analysis.png)
 
 * Used Pandas to print the summary statistics for the precipitation data.
+
   ![precipitation](Images/Precipitation_Describe.png)
 
 ### Station Analysis
