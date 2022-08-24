@@ -82,7 +82,7 @@ The following tasks were performed to do the analysis of stations in the area:
 
 - - -
 
-## Part 2: Design the Climate App
+## Part 2: Design of Climate App
 
 After completing the initial analysis, designed a Flask API based on the queries that were developed.
 
